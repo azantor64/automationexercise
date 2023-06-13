@@ -1,13 +1,13 @@
 # automationexercise
 
-To run the project and execute the full process, follow these steps:
+### To run the project and execute the full process, follow these steps:
 
-Clone the project from the GitHub repository.
-Open the project in Visual Studio Code.
-Open the terminal in Visual Studio Code.
-Run the following command in the terminal:
+  1. Clone the project from the GitHub repository.
+  2. Open the project in Visual Studio Code.
+  3. Open the terminal in Visual Studio Code.
+  4. Run the following command in the terminal:
 
-npx cypress open
+> npx cypress open
 
 
 This command will open the Cypress Test Runner.
